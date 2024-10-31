@@ -4,15 +4,15 @@
 
 ## Sumário
 
-1. [Sintaxe Básica](#sintaxe-básica)
-2. [Variáveis](#variáveis)
-3. [Tipos de Dados](#tipos-de-dados)
-4. [Condicionais](#condicionais)
-5. [Conversão de Tipos (Typecasting)](#conversão-de-tipos-typecasting)
-6. [Funções](#funções)
-7. [Estruturas de Dados - Listas, Tuplas e Conjuntos](#estruturas-de-dados---listas-tuplas-e-conjuntos)
-8. [Dicionários](#dicionários)
-
+1. [Sintaxe Básica](#1-sintaxe-básica)
+2. [Variáveis](#2-variáveis)
+3. [Tipos de Dados](#3-tipos-de-dados)
+4. [Condicionais](#4-condicionais)
+5. [Conversão de Tipos (Typecasting)](#5-conversão-de-tipos-typecasting)
+6. [Funções](#6-funções)
+7. [Estruturas de Dados - Listas, Tuplas e Conjuntos](#7-estruturas-de-dados---listas-tuplas-e-conjuntos)
+8. [Dicionários](#8-dicionários)
+9. [Outros](#9-outros)
 ---
 
 ## 1. Sintaxe Básica
